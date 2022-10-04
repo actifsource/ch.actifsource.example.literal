@@ -78,7 +78,7 @@
           <object statement-guid="ff69bd08-43d8-11ed-975d-cbc029e0e53b" type="resource" guid="30dcf5a7-29ea-11e3-8d3e-db71bc5146cf" />
         </predicate>
         <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
-          <object statement-guid="0b867a19-43d9-11ed-975d-cbc029e0e53b" type="literal">hexBitDecimalLiteralAspect</object>
+          <object statement-guid="0b867a19-43d9-11ed-975d-cbc029e0e53b" type="literal">hexBitDecimalLiteral</object>
         </predicate>
         <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
           <object statement-guid="fe71c877-43d8-11ed-975d-cbc029e0e53b" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
