@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="f6df9c8f-43d8-11ed-975d-cbc029e0e53b">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f6df9c91-43d8-11ed-975d-cbc029e0e53b" type="resource" guid="e0ef9cfb-43d8-11ed-975d-cbc029e0e53b" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f6e038d2-43d8-11ed-975d-cbc029e0e53b" type="literal">LiteralTestRoot</object>
+  </predicate>
+  <predicate guid="fe6ff3b3-43d8-11ed-975d-cbc029e0e53b">
+    <object statement-guid="0f9db00a-43d9-11ed-975d-cbc029e0e53b" type="literal">b1011</object>
+    <object statement-guid="21c0a1cb-43d9-11ed-975d-cbc029e0e53b" type="literal">0xff</object>
+    <object statement-guid="2c83e95c-43d9-11ed-975d-cbc029e0e53b" type="literal">255</object>
+  </predicate>
+</resource>
+
